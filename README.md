@@ -1,3 +1,7 @@
+# -- OBJETIVO DE ESTUDO -- 
+
+Os dashboards foram criado atráves de IA. A versão utilizando GEMINI PRO mostra um dashboard claro, analítico e de fácil compreensão, já a versão do CHATGPT FREE, o valor inicial de vendas mostra apenas uma parcela do valor total, com um visual mais escuro, e visual 'caótico'. Ambos os dashboards foram feitos com o mesmo prompt e mesmo arquivo como base de dados. É notável a facilidade e a agilidade de criar um dashboard interativo com estas ferramentas, porém é necessário um cuidado com o tipo de dados que esta sendo publicado para manter a segurança e privacidade dos mesmos.  Apesar da praticidade ainda assim é necessário fazer ajustes para correção de alguns bugs. De qualquer forma, ambas geraram os dashboards com os filtros interativos funcionando.
+
 # Porsche | Inteligência de Vendas - Dashboard Analítico 🏎️📊
 
 Um dashboard interativo e sofisticado de análise de vendas focado no mercado de veículos de luxo. Este projeto foi desenvolvido em uma interface *Single Page Application* (SPA) puramente baseada em tecnologias front-end, processando dados brutos em insights de negócios acionáveis.
